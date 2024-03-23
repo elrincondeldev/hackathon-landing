@@ -4,7 +4,7 @@ import React from 'react';
 import Countdown from 'react-countdown';
 
 function CountDown() {
-  const march24 = new Date('2024-03-24T00:00:00').getTime();
+  const march24 = new Date('2024-03-24T18:00:00').getTime();
 
   const renderer = ({
     days,
